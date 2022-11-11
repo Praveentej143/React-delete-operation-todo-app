@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: Roboto;
+}
+.list-container {
+  list-style-type: none;
+  padding: 0%;
+}
+.container {
+  background-color: #ffffff;
+  width: 80vw;
+  border-radius: 16px;
+  padding: 0px 80px;
+}
+.heading {
+  color: #ff8542;
+}
